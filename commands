@@ -1,0 +1,512 @@
+  487  Rmr SA23/
+  488  rm help
+  489  rm pwd
+  490  pwd
+  491  hadoop version
+  492  hadoop java
+  493  vi sa
+  494  rmdir SA23
+  495  cat 
+  496  vi
+  497  vi 
+  498  gedit
+  499  ls 
+  500  hadoop fs jar DSAC/hadoop-mapreduce-examples-2.2.0.jar 
+  501  hadoop fs -jar DSAC/hadoop-mapreduce-examples-2.2.0.jar 
+  502  hadoop fs -Jar DSAC/hadoop-mapreduce-examples-2.2.0.jar 
+  503  hadoop fs jar hadoop-mapreduce-examples-2.2.0.jar 
+  504  hadoop fs hadoop-mapreduce-examples-2.2.0.jar 
+  505  hadoop fs -jar hadoop-mapreduce-examples-2.2.0.jar wordcount custs 
+  506  hadoop fs -put DSAC/Class_1.txt /class1
+  507  hadoop fs -copyToLocal /Class DSAC/cust
+  508  hadoop fs -copyToLocal /class1 DSAC/cust
+  509  hadoop fs -rm BDA
+  510  hadoop fs -rm /BDA
+  511  hadoop fs -rmdir BDA
+  512  hadoop fs -rmdir DSAC23
+  513  hadoop fs -rmdir SA23
+  514  hadoop fs -rm data
+  515  hdsf dsf -rm custs 
+  516  hdsf dfs -rm custs 
+  517  Hadoop fs -rm custs 
+  518  hadoop fs -rm custs 
+  519  hadoop fs -rm /custs 
+  520  hadoop fs -rmdir DSAC23
+  521  hadoop fs -rmdir /DSAC23
+  522  hadoop fs -rm /DSAC23/dataset.csv
+  523  hadoop fs -rmdir /DSAC23
+  524  hadoop version
+  525  sudo jps
+  526  history
+  527  hadoop fs -copyToLocal data /DSAC
+  528  hadoop fs -copyToLocal /data /DSAC
+  529  hadoop fs -copyToLocal /data /CAT/data
+  530  hadoop fs -copyToLocal /data data
+  531  pwd
+  532  hadoop fs -mkdir /DSAC
+  533  hdfs dfs -mkdir /BDA
+  534  hdfs fs -mkdir /SA
+  535  hadoop fs -mkdir DSAC
+  536  hdfs fs -copyFromLocal BDAQB.pdf DSAC
+  537  hadoop fs -copyFromLocal BDAQB.pdf DSAC
+  538  rm data
+  539  rmdir BDA
+  540  rm BDA/custs 
+  541  rmdir BDA
+  542  hadoop fs -rmdir BDA
+  543  hadoop fs -rmdir /BDA
+  544  hadoop fs -rmdir /DSAC
+  545  hadoop fs -rm /class1
+  546  history
+  547  clear
+  548  hadoop jar DSAC/hadoop-mapreduce-examples-2.2.0.jar
+  549  hadoop jar DSAC/hadoop-mapreduce-examples-2.2.0.jarwordcount macbook /map1
+  550  hadoop jar DSAC/hadoop-mapreduce-examples-2.2.0.jarclear
+  551  clear
+  552  hadoop jar DSAC/hadoop-mapreduce-examples-2.2.0.jar wordcount macbook /map1
+  553  clear
+  554  hadoop jar wc.jar wordcount macbook /mac
+  555  hadoop jar wc.jar 
+  556  hadoop jar hadoop-common-2.2.0.jar 
+  557  hadoop jar hadoop-common-2.2.0.jar wordcount macbook /map1
+  558  hadoop jar hadoop-common-2.2.0.jar Wordcount macbook /map1
+  559  hadoop jar hadoop-mapreduce-examples-2.2.0.jar WordCount macbook /map
+  560  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordcount macbook /map
+  561  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordcount macbook /dsac/map
+  562  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordcount /data /data1
+  563  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordsize /data /data1
+  564  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordsize /data /data2
+  565  hadoop jar hadoop-mapreduce-examples-2.2.0.jar 
+  566  hadoop jar hadoop-mapreduce-examples-2.2.0.jar woedmean /data /data2
+  567  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordmean /data /data2
+  568  hadoop fs -put macbook /WC
+  569  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordcount wc /mapre
+  570  clear
+  571  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordcount WC /mapre
+  572  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordcount /wc /mapre
+  573  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordcount /WC /mapre
+  574  hadoop jar hadoop-mapreduce-examples-2.2.0.jar 
+  575  clear
+  576  hadoop jar hadoop-mapreduce-examples-2.2.0.jar sudoku /WC /DSAC/sudok
+  577  hadoop jar hadoop-mapreduce-examples-2.2.0.jar sudoku /WC /sudok
+  578  hadoop jar hadoop-mapreduce-examples-2.2.0.jar sudoku WC /WC1
+  579  hadoop jar hadoop-mapreduce-examples-2.2.0.jar sudoku /
+  580  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordmean /WC /mean
+  581  hadoop jar hadoop-mapreduce-examples-2.2.0.jar sudoku /WC /WC1
+  582  history
+  583  clear
+  584  ls
+  585  hadoop fs -copyFromLocal BDAQB.pdf /qb
+  586  hadoop fs -copyFromLocal BDAQB.pdf /qb.pdf
+  587  hadoop fs -copyFromLocal readme /suren
+  588  hadoop fs -copyToLocal /suren ds
+  589  Clear
+  590  clear
+  591  history
+  592  gedit
+  593  hadoop fs -put BDH_Record.docx /bda_rec
+  594  hadoop fs -put Macbookair /Mac_count
+  595  clear
+  596  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordcount /Mac_count /Mac_keyword
+  597  clear
+  598  hadoop fs -put student /student
+  599  hadoop jar hadoop-mapreduce-examples-2.2.0.jar /student /counts
+  600  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordcount /student /counts
+  601  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wc /student /counts
+  602  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordmean /student /mean
+  603  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordmean /student /meanvalue
+  604  clear
+  605  hadoop jar sal.jar /student/def /salcount
+  606  hadoop jar sal.jar sal /student/def /salcount
+  607  hadoop jar sal.jar sal /student/def /salcount/count
+  608  clear
+  609  history
+  610  hadoop fs -put DSAC/Data\ Sets-Sample/sal1 /Emp/Salary
+  611  hadoop fs -put DSAC/Data\ Sets-Sample/sal1 /Emp
+  612  hadoop fs -put DSAC/Data Sets-Sample/sal1 /Emp/Salary
+  613  hadoop fs -put DSAC/Data Sets-Sample/sal1 /Emp
+  614  hadoop fs -put DSAC/Dataset/sal1 /Emp/Salary
+  615  hadoop fs -put DSAC/Dataset/sal1 Emp/Salary
+  616  hadoop fs -put DSAC/Dataset/sal1 /Salary
+  617  hadoop fs -rm  /Salary
+  618  hadoop fs -mkdir /Emp
+  619  hadoop fs -put DSAC/Dataset/sal1 Emp/Salary
+  620  hadoop fs -put DSAC/Dataset/sal1 /Emp/Salary
+  621  hadoop jar Salary.jar Salary /Emp/Salary /Sal_op
+  622  hadoop fs -rm  /Emp/Sal_op
+  623  hadoop fs -rm  /Sal_op
+  624  hadoop fs -mkdir  /Sal_op
+  625  hadoop fs -rmdir  /Sal_op
+  626  hadoop fs -mkdir  /Sal_op/part-00000
+  627  hadoop fs -rm  /Sal_op/part-00000
+  628  hadoop fs -rm  /Sal_op/_SUCCESS
+  629  hadoop fs -rmdir  /Sal_op
+  630  hadoop fs -rm /Emp/Salary
+  631  hadoop fs -rmdir /Emp
+  632  hadoop fs -ls
+  633  hadoop fs /-ls
+  634  hadoop fs -ls /
+  635  ls
+  636  hadoop fs -mkdir /Emp
+  637  hadoop fs -put DSAC/Dataset/sal1 /Emp/Salary
+  638  hadoop jar Salarycount.jar salarycount /Emp/Salary /Salary_op
+  639  hadoop jar Salarycount.jar  /Emp/Salary /Salary_op
+  640  hadoop jar Salarycount.jar /Emp/Salary /Salary_op
+  641  hadoop jar Salarycount.jar Salarycount /Emp/Salary /Salary_op
+  642  hadoop fs -ls /
+  643  hadoop fs -rm 
+  644  import java.io.IOException;
+  645  import org.apache.hadoop.fs.Path;
+  646  import org.apache.hadoop.io.LongWritable;
+  647  import org.apache.hadoop.io.Text;
+  648  import org.apache.hadoop.mapred.FileInputFormat;
+  649  import org.apache.hadoop.mapred.FileOutputFormat;
+  650  import org.apache.hadoop.mapred.JobClient;
+  651  import org.apache.hadoop.mapred.JobConf;
+  652  import org.apache.hadoop.mapred.MapReduceBase;
+  653  import org.apache.hadoop.mapred.Mapper;
+  654  import org.apache.hadoop.mapred.OutputCollector;
+  655  import org.apache.hadoop.mapred.Reporter;
+  656  import org.apache.hadoop.mapred.TextInputFormat;
+  657  import org.apache.hadoop.mapred.TextOutputFormat;
+  658  public class Salary {
+  659  public static class Map extends MapReduceBase implements
+  660  gWritable, Text, Text,Text> {
+  661  ES,MANAGER,42,2975
+  662  gWritable key, Text value, OutputCollector<Text,Text> output, Reporter reporter)
+  663   { String line = value.toString();
+  664          String[]  strts = line.split(",");
+  665          int sal = Integer.parseInt(strts[4]);
+  666          if(sal>2500) {
+  667          ew Text(strts[0]),value);
+  668  ES-->2975
+  669  (String[] args) throws Exception {
+  670  f conf = new JobConf(Salary.class);
+  671  f.setJobName("Display_Salary");
+  672  f.setOutputKeyClass(Text.class);
+  673  f.setOutputValueClass(Text.class);
+  674  f.setMapperClass(Map.class);
+  675  f.setInputFormat(TextInputFormat.class);
+  676  f.setOutputFormat(TextOutputFormat.class);
+  677  putFormat.setInputPaths(conf, new Path(args[0]));
+  678  f, new Path(args[1]));
+  679  ew Path(args[1]);
+  680  f).delete(outputPath);
+  681  t.runJob(conf);
+  682  }
+  683  hadoop fs -rm /Mac_count
+  684  hadoop fs -rm /WC
+  685  hadoop fs -rm /Emp/Salary
+  686  hadoop fs -rmdir /Emp
+  687  hadoop fs -rmdir /Salary_op/Salary
+  688  hadoop fs -rm /Salary_op/Salary
+  689  hadoop fs -rm /Salary_op/part-00000/_SUCCESS
+  690  hadoop fs -rm /Salary_op/part-00000
+  691  hadoop fs -rm /Salary_op/_SUCCESS
+  692  hadoop fs -rmdir /Salary_op
+  693  hadoop fs -put DSAC/Dataset/sal1 /empsalary 
+  694  hadoop jar Salarycount.jar /empsalary /salary_report
+  695  import java.io.IOException;
+  696  import org.apache.hadoop.fs.Path;
+  697  import org.apache.hadoop.io.LongWritable;
+  698  import org.apache.hadoop.io.Text;
+  699  import org.apache.hadoop.mapred.FileInputFormat;
+  700  import org.apache.hadoop.mapred.FileOutputFormat;
+  701  import org.apache.hadoop.mapred.JobClient;
+  702  import org.apache.hadoop.mapred.JobConf;
+  703  import org.apache.hadoop.mapred.MapReduceBase;
+  704  import org.apache.hadoop.mapred.Mapper;
+  705  import org.apache.hadoop.mapred.OutputCollector;
+  706  import org.apache.hadoop.mapred.Reporter;
+  707  import org.apache.hadoop.mapred.TextInputFormat;
+  708  import org.apache.hadoop.mapred.TextOutputFormat;
+  709  public class Salary {
+  710  public static class Map extends MapReduceBase implements
+  711  gWritable, Text, Text,Text> {
+  712  ES,MANAGER,42,2975
+  713  gWritable key, Text value, OutputCollector<Text,Text> output, Reporter reporter)
+  714   { String line = value.toString();
+  715          String[]  strts = line.split(",");
+  716          int sal = Integer.parseInt(strts[4]);
+  717          if(sal>2500) {
+  718          ew Text(strts[0]),value);
+  719  ES-->2975
+  720  (String[] args) throws Exception {
+  721  f conf = new JobConf(Salary.class);
+  722  f.setJobName("Display_Salary");
+  723  f.setOutputKeyClass(Text.class);
+  724  f.setOutputValueClass(Text.class);
+  725  f.setMapperClass(Map.class);
+  726  f.setInputFormat(TextInputFormat.class);
+  727  f.setOutputFormat(TextOutputFormat.class);
+  728  putFormat.setInputPaths(conf, new Path(args[0]));
+  729  f, new Path(args[1]));
+  730  ew Path(args[1]);
+  731  f).delete(outputPath);
+  732  t.runJob(conf);
+  733  }
+  734  }clear
+  735  clar
+  736  clear
+  737  hadoop jar Salarycount.jar /
+  738  import java.io.IOException;
+  739  import org.apache.hadoop.fs.Path;
+  740  import org.apache.hadoop.io.LongWritable;
+  741  import org.apache.hadoop.io.Text;
+  742  import org.apache.hadoop.mapred.FileInputFormat;
+  743  import org.apache.hadoop.mapred.FileOutputFormat;
+  744  import org.apache.hadoop.mapred.JobClient;
+  745  import org.apache.hadoop.mapred.JobConf;
+  746  import org.apache.hadoop.mapred.MapReduceBase;
+  747  import org.apache.hadoop.mapred.Mapper;
+  748  import org.apache.hadoop.mapred.OutputCollector;
+  749  import org.apache.hadoop.mapred.Reporter;
+  750  import org.apache.hadoop.mapred.TextInputFormat;
+  751  import org.apache.hadoop.mapred.TextOutputFormat;
+  752  public class Salary {
+  753  public static class Map extends MapReduceBase implements
+  754  gWritable, Text, Text,Text> {
+  755  ES,MANAGER,42,2975
+  756  gWritable key, Text value, OutputCollector<Text,Text> output, Reporter reporter)
+  757   { String line = value.toString();
+  758          String[]  strts = line.split(",");
+  759          int sal = Integer.parseInt(strts[4]);
+  760          if(sal>2500) {
+  761          ew Text(strts[0]),value);
+  762  ES-->2975
+  763  (String[] args) throws Exception {
+  764  f conf = new JobConf(Salary.class);
+  765  f.setJobName("Display_Salary");
+  766  f.setOutputKeyClass(Text.class);
+  767  f.setOutputValueClass(Text.class);
+  768  f.setMapperClass(Map.class);
+  769  f.setInputFormat(TextInputFormat.class);
+  770  f.setOutputFormat(TextOutputFormat.class);
+  771  putFormat.setInputPaths(conf, new Path(args[0]));
+  772  f, new Path(args[1]));
+  773  ew Path(args[1]);
+  774  f).delete(outputPath);
+  775  t.runJob(conf);
+  776  }
+  777  hadoop jar Salarycount.jar /empsalary /emprepot
+  778  hadoop jar Salarycount.jar salarycount  /empsalary /emprepot
+  779  hadoop jar Salarycount.jar salarycount /empsalary /emprepot
+  780  hadoop jar Salarycount.jar Salarycount /empsalary /emprepot
+  781  hadoop jar Salarycount.jar Salary /empsalary /emprepot
+  782  hadoop jar empcount.jar /empsalary /sal_count
+  783  hadoop jar empcount.jar salarycount  /empsalary /sal_count
+  784  hadoop jar empcount.jar salarycount /empsalary /sal_count
+  785  hadoop jar empcount.jar Salarycount /empsalary /sal_count
+  786  hadoop jar empcount.jar SalaryCount /empsalary /sal_count
+  787  sudo jps
+  788  hadoop fs -ls
+  789  hadoop fs -ls /
+  790  sudo jps
+  791  pwd
+  792  sudo jts
+  793  hadoop dfs -ls /
+  794  hdfs dfs -mkdir /new_dsac
+  795  hadoop dfs -ls /
+  796  ls
+  797  hdfs dfs -du -s /new_edureka/test
+  798  hdfs dfs -du -s /new_dsac/test
+  799  hdfs dfs -du -s /new_dsac
+  800  hdfs dfs -mkdir /new_edureka
+  801  hdfs dfs -mkdir /new_edureka/test
+  802  hdfs dfs -cat /new_edureka/test
+  803  hdfs dfs -count /user
+  804  hdfs dfs -rm /new_edureka/test
+  805  hdfs dfs -rmr /new_edureka/test
+  806  hdfs dfs -rmr /new_edureka/
+  807  ls
+  808  cd /Desktop
+  809  cd /home/edureka/Desktop
+  810  pwd
+  811  ls
+  812  mkdir /new
+  813  sudo
+  814  sudo jps
+  815  ls
+  816  cat
+  817  cd
+  818  sudo jps
+  819  ls
+  820  cd linux
+  821  mkdir Linux
+  822  ls
+  823  cd Linus
+  824  cd Linux
+  825  cd ..
+  826  cd Linux/
+  827  cd Cmd
+  828  cd Desktop/
+  829  cd Desktop
+  830  cd ..
+  831  cd Desktop
+  832  cd Linux/
+  833  cd Desktop
+  834  pwd
+  835  mkdir LINUX
+  836  mkdir Suriya
+  837  ls
+  838  cd Suriya
+  839  gedit suriya
+  840   
+  841  mv suriya Desktop/
+  842  mv suriya Linux
+  843  mv suriya Linux/
+  844  mkdir Prabha
+  845  mv suriya Linux/
+  846  cat prabha
+  847  gedit prabha
+  848  cat prabha
+  849  cat suriya
+  850  cd Linux
+  851  cd Suriya
+  852  cd LINUX
+  853  rmdir -r Suriya
+  854  rmdir LINUX
+  855  rmdir Linux
+  856  rmdir r Suriya
+  857  rm -r Suriya
+  858  mkdir Suriya
+  859  cd Suriya
+  860  gedit suriya
+  861  cat suriya
+  862  cat prabha
+  863  gedit prabha
+  864  mv suriya /home/edureka/Desktop
+  865  cd ..
+  866  mv suriya /home/edureka/Suriya
+  867  cp suriya /home/edureka/Suriya
+  868  cd ..
+  869  cd Desktop
+  870  cd Suriya
+  871  mv prabha /home/edureka/Desktop
+  872  cd..
+  873  cd ..
+  874  mv prabha /home/edureka/Desktop/Suriya
+  875  mv suriya/home/edureka/Desktop/Suriya
+  876  mv suriya /home/edureka/Desktop/Suriya
+  877  rm -r Suriya
+  878  mkdir Suriya
+  879  cd Suriya
+  880  gedit suriya
+  881  gedit prabha
+  882  mv suriya /home/edureka/Desktop
+  883  cp suriya /home/edureka/Desktop
+  884  cp prabha /home/edureka/Desktop
+  885  cd ..
+  886  mv suriya /home/edureka/Desktop/Suriya
+  887  cp prabha /home/edureka/Desktop/Suriya
+  888  rm -r prabha
+  889  cat-n suriya
+  890  cat -n suriya
+  891  cd ..
+  892  cd Desktop
+  893  cd Suriya
+  894  cat -n suriya
+  895  ls -l
+  896  man
+  897  man -d 
+  898  man -d suriya
+  899  cd suriya
+  900  cd Suriya
+  901  ls
+  902  cat suriya
+  903  cat prabha
+  904  cat suriya~
+  905  rm suriya vinith
+  906  cd .
+  907  cd ..
+  908  cat BDH_Record.docx
+  909  sudo jps
+  910  cd Suriya
+  911  mv prabha /home/edureka/Desktop
+  912  hadoop fs -mkdir test
+  913  hadoop fs -ls
+  914  hadoop fs -mkdir /test
+  915  hadoop fs -ls
+  916  hadoop fs -copyFromLocal prabha /test
+  917  cd..
+  918  ls
+  919  ls -l
+  920  ls
+  921  hadoop fs -copyFromLocal prabha /test
+  922  hadoop fs -copyFromLocal prabha /data1
+  923  hadoop fs -copyToLocal 
+  924  hadoop fs rm -r prabha
+  925  hadoop fs -rm /test/prabha
+  926  hdfs dfs -mkdir sepl
+  927  cd usr/lib/hadoop-2.2.0
+  928  cd /usr/lib/hadoop-2.2.0
+  929  ls
+  930  cd sbin
+  931  ./start-all.sh
+  932  hadoop jar hadoop-mapreduce-examples-2.2.0.jar 
+  933  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordcount /dff/file2.txt
+  934  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordcount /dff/file2.txt /shals
+  935  ls
+  936  gedit file2
+  937  ls
+  938  hadoop jar hadoop-mapreduce-examples-2.2.0.jar 
+  939  hadoop fs -mkdir /wordcount_shals
+  940  hadoop fs -copyFromLocal file2/wordcount_input
+  941  hadoop fs -copyFromLocal file2 
+  942  hadoop fs -copyFromLocal file2 /wordcount_input
+  943  ls
+  944  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordcount /wordcount_input/wordcount_shals/wc_count
+  945  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordmean /wordcount_input/wordcount_shals/wc_count/mean_count
+  946  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordmean /wordcount_input/wordcount_shals/wc_count2/mean_count
+  947  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordmean /wordcount_input/wordcount_shals/wc_count2/meancount
+  948  hadoop jar hadoop-mapreduce-examples-2.2.0.jar 
+  949  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordmedian /wordcount_input/wordcount_shals/wc_count3/mediancount
+  950  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordmedian /wordcount_input /wordcount_shals/wc_count3/mediancount
+  951  hadoop jar hadoop-mapreduce-examples-2.2.0.jar 
+  952  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordstandarddeviation /wordcount_input /wordcount_shals/wc_count4/sdcount
+  953  hadoop jar hadoop-mapreduce-examples-2.2.0.jar 
+  954  hadoop jar hadoop-mapreduce-examples-2.2.0.jar aggregatewordcount  /wordcount_input /wordcount_shals/wc_count5/wc_agg
+  955  hadoop jar hadoop-mapreduce-examples-2.2.0.jar 
+  956  clear
+  957  ipconfig
+  958  ifconfig
+  959  cd DSAC
+  960  cd Jars
+  961  ls
+  962  hadoop jar salcou.jar 
+  963  hadoop jar wordsize.jar
+  964  hadoop jar Wordsize.jar
+  965  hadoop jar testsal.jar
+  966  hadoop jar wcc.jar
+  967  hadoop jar wc.jar
+  968  hadoop jar hadoop-common-2.2.0.jar
+  969  cd ..
+  970  hadoop fs -copyFromLocal main.csv /DataS
+  971  hadoop fs -mkdir Suriya
+  972  hadoop fs -mkdir /suriya
+  973  hadoop jar salcou.jar Salarycount main.csv /suriya/srima
+  974  hadoop jar hadoop-mapreduce-examples-2.2.0.jar Wordcount main.csv /suriya/srima
+  975  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordcount main.csv /suriya/srima
+  976  hadoop jar hadoop-mapreduce-examples-2.2.0.jar 
+  977  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordcount DataS  /suriya/srima
+  978  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordcount DataS /suriya/srima
+  979  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordcount /DataS/suriya/srima
+  980  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordcount /DataS /suriya/srima
+  981  hadoop jar Wordsize.jar
+  982  hadoop jar Wordsize.jar WordCount /DataS /suriya/paavai 
+  983  hadoop jar Wordsize.jar /DataS /suriya/paavai 
+  984  ls
+  985  if config; ifconfig; help
+  986  ifconfig
+  987  hadoop fs -copyFromLocal obamaSpeech.txt /audiotext
+  988  hadoop fs -mkdir /speech_analysis
+  989  hadoop jar hadoop-mapreduce-examples-2.2.0.jar 
+  990  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordcount /audiotext /speech_analysis/wordcount
+  991  hadoop jar hadoop-mapreduce-examples-2.2.0.jar 
+  992  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordmean /audiotext /speech_analysis/wordmean
+  993  hadoop jar hadoop-mapreduce-examples-2.2.0.jar 
+  994  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordmedian /audiotext /speech_analysis/wordmedian
+  995  hadoop jar hadoop-mapreduce-examples-2.2.0.jar 
+  996  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordstandarddeviation /audiotext /speech_analysis/wordstandarddeviation
+  997  history
+[edureka@localhost Desktop]$ 
